@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julie
 - 👀 I’m interested in ... Web Development/Data
-- 🌱 I’m currently re-learning Javascript ... & React and Python, and I'm planning to learn More
+- 🌱 I’m currently re-learning Javascript ... & React and Python, and I'm planning to learn more
 - 💞️ I’m looking to collaborate on ... Web Development
 - 📫 How to reach me ... at lazuli44477@gmail.com
 
